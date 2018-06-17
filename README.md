@@ -6,10 +6,10 @@ Live website URL:- http://riteshskoshti-001-site1.itempurl.com/
 
 
 ## Technologies used for development
-   *ASP.NET MVC
-   *REST API (WEB API)
-   *SQL Server 2012
-   *Microsoft Unit Test framework
+   * ASP.NET MVC
+   * REST API (WEB API)
+   * SQL Server 2012
+   * Microsoft Unit Test framework
    
    
 ## Projects in Solution
@@ -21,7 +21,7 @@ Live website URL:- http://riteshskoshti-001-site1.itempurl.com/
 ## Class diagrams as per projects
 1. ContactManagementWebSite
 
-![alt text]( https://github.com/riteshkoshti/ContactManagementSystem/Images / MVCWebSite.png)
+![alt text]( https://github.com/riteshkoshti/ContactManagementSystem/Images/ MVCWebSite.png)
 
 
 
