@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\ContactManagementWebAPI</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ContactManagementServices.dll">
+      <publishTime>06/16/2018 22:13:29</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>06/13/2018 21:31:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>06/13/2018 20:22:27</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/15/2018 16:54:36</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>06/15/2018 16:54:37</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>06/16/2018 22:12:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>06/15/2018 18:43:55</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>06/15/2018 18:43:55</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>06/13/2018 20:22:27</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>06/13/2018 20:22:25</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>06/16/2018 22:12:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>06/16/2018 22:12:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>06/16/2018 22:12:00</publishTime>
+    </File>
+    <File Include="DataAccess/Contact.edmx.diagram">
+      <publishTime>06/13/2018 21:31:57</publishTime>
+    </File>
+    <File Include="DataAccess/ContactDataModel.edmx.diagram">
+      <publishTime>06/16/2018 17:47:13</publishTime>
+    </File>
+    <File Include="DataAccess/ContactEntityModel.edmx.diagram">
+      <publishTime>06/15/2018 09:22:50</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/13/2018 21:04:41</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/16/2018 22:12:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/16/2018 22:00:23</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

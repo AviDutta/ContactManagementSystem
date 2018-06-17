@@ -1,0 +1,13 @@
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\bin\Debug\ContactManagementServiceUnitTest.dll
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\bin\Debug\ContactManagementServiceUnitTest.pdb
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\obj\Debug\ContactManagementServiceUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\obj\Debug\ContactManagementServiceUnitTest.dll
+C:\Users\Ritesh\documents\visual studio 2012\Projects\ContactManagementWebSite\ContactManagementServiceUnitTest\obj\Debug\ContactManagementServiceUnitTest.pdb
