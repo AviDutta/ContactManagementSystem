@@ -21,7 +21,7 @@ Live website URL:- http://riteshskoshti-001-site1.itempurl.com/
 ## Class diagrams as per projects
 1. ContactManagementWebSite
 
-![GitHub Logo](/Images/MVCWebSite.png)
+![Alt Text](/Images/MVCWebSite.png)
 
 
 
